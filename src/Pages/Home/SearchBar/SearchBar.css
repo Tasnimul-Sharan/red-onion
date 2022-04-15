@@ -1,0 +1,27 @@
+.search {
+  background-image: url("../../../images/bannerbackground.png");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100vh;
+  /* margin: 100px 50px; */
+  /* margin-top: 70px; */
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.search-detail {
+  /* margin: 100px 80px; */
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+/* .navbar {
+  display: flex;
+  align-items: center;
+} */
+
+/* .form {
+  width: 100%;
+} */
